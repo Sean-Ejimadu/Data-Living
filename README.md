@@ -1,2 +1,9 @@
 # Data-Living
-This repository contains projects focused on data analysis, predictive modeling, and statistical insights using Python and Jupyter Notebook.
+
+Welcome to my collection of data analysis and data science projects. Each project explore real-world data, applies analytical techniques and draw meaningful insignts using tools such as Python, Pandas, Numpy, Matplotlib etc
+
+### Housing in United State(https://github.com/Sean-Ejimadu/Housing-in-United-State)
+An analytical project on the real estate market, exploring key factors that influence property sale prices.
+
+### House Price Predicting Model (https://github.com/Sean-Ejimadu/House-Price-Predicting-Model)
+A regression model that predicts house prices based on city.
