@@ -7,3 +7,6 @@ Welcome to my collection of data analysis and data science projects. Each projec
 
 ### House Price Predicting Model (https://github.com/Sean-Ejimadu/House-Price-Predicting-Model)
 *A regression model that predicts house prices based on city.*
+
+### FIFA World Cup Performances and Ranking from 1930 to 2022 (https://github.com/Sean-Ejimadu/FIFA-World-Cup-Performances-and-Ranking-from-1930-to-2022)
+*A analytical project where a model that predicts match oucome was built as well as sartisfying other necessary objectives.
